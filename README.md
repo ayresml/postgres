@@ -1,6 +1,8 @@
 # postgres
 Notes on running postgres in Kali Linux
 
+## postgres manual page https://www.postgresql.org/docs/
+
 - Login in as yourself
 - enter command : sudo su postgres
 - enter command psql

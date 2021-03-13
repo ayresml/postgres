@@ -9,3 +9,8 @@ Notes on running postgres in Kali Linux
 - enter command: create database 'database name'
 - enter \q to exit
 - enter command psql 'database name'
+
+- COmMANDS
+- CREATE TABLE tablename ( value1 type, value2 type );
+- INSERT INTO tablename (value1, value2) VALUES (# , #);
+- SELECT * FROM tablename -> gives the whole table print out.

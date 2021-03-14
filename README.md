@@ -15,4 +15,5 @@ Notes on running postgres in Kali Linux
 - CREATE TABLE tablename ( value1 type, value2 type );
 - INSERT INTO tablename (value1, value2) VALUES (# , #);
 - SELECT * FROM tablename -> gives the whole table print out.
-- SELECT valueT1, value T2 FROM table1, table2 WHERE columnT1 = columnT2;
+- SELECT valueT1, value T2 FROM table1, table2 WHERE table1.columnT1 = table2.columnT2; ####This is the full syntax when columnT1 is the same name as columnT2
+- 
